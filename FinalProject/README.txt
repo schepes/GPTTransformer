@@ -3,7 +3,7 @@ README
 This repository contains two Python scripts implementing character-based language models, and 2 data files. The first script, firstModel.py, uses a simple bigram model to generate text, while the second script, finalModel.py, utilizes a GPT-like Transformer architecture for the same task.
 
 Requirements
-Python 3.7+
+Python 3.8+
 PyTorch 1.7+
 A GPU is highly recommended for running the GPT-like Transformer model (finalModel.py).
 
